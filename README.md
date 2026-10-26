@@ -8,7 +8,7 @@ This is a software prototype using local demo data. Payments are simulated and n
 
 ## Prerequisites
 
-- Python 3.12
+- Python 3.11.4
 - pip
 - Git (optional, for repository management)
 
